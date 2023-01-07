@@ -7,10 +7,11 @@
 - соответвующее цитоархитектурное представление мозжечковых клеток, как структурного элемента нейрокомпьютера;
 - вводимое базовое обозначение с указанием параметров параллельных волокон формирующих фазовое пространство параметров и кратковременную память.
 
-<img src="https://drive.google.com/uc?export=view&id=12RLEPip5QlT-CclSGp1UPJQXaUri4Jvv" width="600">
+<img src="https://drive.google.com/uc?export=view&id=1ctIOQH2_dxw8K8pySYui6veXVqlaDepl" width="700">
 
 <img src="https://drive.google.com/uc?export=view&id=1ctIOQH2_dxw8K8pySYui6veXVqlaDepl" width="700">
 
+12RLEPip5QlT-CclSGp1UPJQXaUri4Jvv
 
 Подготовим модель на python с использованием библиотеки [pyglet](https://pyglet.org/) [3] и разверткой во времени. Применение pyglet предоставляющей объектно - ориентированный программный интерфейс для создания игр, является закономерным, так как цель многих игр создать модель реального мира отличительной чертой которого является время как непрерывный процесс.
 
