@@ -1,5 +1,3 @@
-# Neuromorphic-pacemaker
-Neuromorphic pacemaker
 # Pacemaker (водитель ритма)
 
 В организмах существует множество участков являющихся [автоколебательными контурами](https://en.wikipedia.org/wiki/Autowave), часто именуемые «пейсмекером» (pacemaker) задающими ритмы, способных генерировать и поддерживать колебания. Их импульсы передаются по аксонам и вовлекают другие клетки в биологический ритмы [1], одним из ярких примеров может служить [водитель сердечного ритма](https://en.wikipedia.org/wiki/Sinoatrial_node) - участок сердечной мышцы, в котором генерируются импульсы, определяющие частоту сердечных сокращений [2].
@@ -11,7 +9,8 @@ Neuromorphic pacemaker
 
 <img src="https://drive.google.com/uc?export=view&id=12RLEPip5QlT-CclSGp1UPJQXaUri4Jvv" width="600">
 
-<img src="https://drive.google.com/file/d/12RLEPip5QlT-CclSGp1UPJQXaUri4Jvv" width="600">
+<img src="https://drive.google.com/uc?export=view&id=1ctIOQH2_dxw8K8pySYui6veXVqlaDepl" width="700">
+
 
 Подготовим модель на python с использованием библиотеки [pyglet](https://pyglet.org/) [3] и разверткой во времени. Применение pyglet предоставляющей объектно - ориентированный программный интерфейс для создания игр, является закономерным, так как цель многих игр создать модель реального мира отличительной чертой которого является время как непрерывный процесс.
 
