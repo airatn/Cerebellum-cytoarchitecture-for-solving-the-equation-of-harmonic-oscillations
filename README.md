@@ -7,8 +7,9 @@
 - соответвующее цитоархитектурное представление мозжечковых клеток, как структурного элемента нейрокомпьютера;
 - вводимое базовое обозначение с указанием параметров параллельных волокон формирующих фазовое пространство параметров и кратковременную память.
 
-<img src="https://drive.google.com/uc?export=view&id=1ctIOQH2_dxw8K8pySYui6veXVqlaDepl" width="700">
+<img src="https://drive.google.com/uc?export=view&id=12RLEPip5QlT-CclSGp1UPJQXaUri4Jvv" width="700">
 
+Внизу рабочая
 <img src="https://drive.google.com/uc?export=view&id=1ctIOQH2_dxw8K8pySYui6veXVqlaDepl" width="700">
 
 12RLEPip5QlT-CclSGp1UPJQXaUri4Jvv
