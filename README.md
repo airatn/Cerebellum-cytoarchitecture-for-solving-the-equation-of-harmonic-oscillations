@@ -15,3 +15,4 @@
 1. М. С. Гиляров, А. А. Бабаев, Г. Г. Винберг, Г. А. Заварзин и др. (1986) «Биологический энциклопедический словарь.» - 2-е изд., М.: Советская Энциклопедия.
 2. А.А. Семенович, В.А. Переверзев. (2021) Нормальная физиология. Минск: Новое знание, 520 с.
 3. https://pyglet.org/ - is a library for the Python programming language that provides an object-oriented application programming interface for the creation of games and other multimedia applications.
+ 
