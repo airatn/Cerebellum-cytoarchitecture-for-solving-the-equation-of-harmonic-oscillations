@@ -17,3 +17,4 @@
 2. А.А. Семенович, В.А. Переверзев. (2021) Нормальная физиология. Минск: Новое знание, 520 с.
 3. https://pyglet.org/ - is a library for the Python programming language that provides an object-oriented application programming interface for the creation of games and other multimedia applications.
  
+ 
