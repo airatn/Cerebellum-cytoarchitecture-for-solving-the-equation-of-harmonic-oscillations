@@ -25,4 +25,4 @@ Two features of the considered generator design reflecting the real world concep
 -	the generator cannot simply start producing pulses when c/m, k/m parameters are set, it needs a "push" - a change of one of the three phase variables, i.e. an external signal in the form of an excitation pulse - to start generation.
 Figure 4 shows examples of "jolts" over time.
  
-<p><img src="https://www.minfo.ru/different_imgs/img4.png" width="900"><figcaption>Figure 3. The simplest model of a segment of the cerebellar neural network acting as a harmonic oscillator.</figcaption></p>
+<p><img src="https://www.minfo.ru/different_imgs/img4.png" width="900"><figcaption>Figure 4. Amplitude of oscillations taking into account chaotic "shocks"</figcaption></p>
