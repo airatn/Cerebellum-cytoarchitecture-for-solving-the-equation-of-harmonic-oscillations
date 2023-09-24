@@ -16,6 +16,13 @@ Here is a brief description of each of the implementation forms of the model.
 3.	**Biology (neurobiology, homeostasis, evolution).** It is a cytoarchitectural representation based on cerebellum cells as a structure consisting of neurocomputer elements. Our cell is an eight-neuron, three-layer structure with five granule cells and, as a result, the same number of parallel fibers. It also has three Golgi cells. W. Ross Ashby's homeostat is the closest to understanding the principles of building intelligent systems consisting of encapsulated blocks and being able to adapt to the environment. 
 4.	**Computer science (computer programming).** Execution of a neurocomputer model in view of the von Neumann architecture using an imperative programming language. The Pyglet module is utilized in this instance to create the Python model. The model enables the development of multimedia applications. The understanding and implementation of the proposed architecture require an interdisciplinary approach, that is, the possession of knowledge in four complex areas, which may be a barrier to its acceptance and widespread application.
 
+Figure 3 shows the performance of the above presented harmonic oscillator model over time and different coefficients.
 
+<p><img src="https://www.minfo.ru/different_imgs/img3.png" width="900"><figcaption>Figure 3. The simplest model of a segment of the cerebellar neural network acting as a harmonic oscillator.</figcaption></p>
+
+Two features of the considered generator design reflecting the real world concepts should be noted:
+-	three phase variables are bidirectional, they can be full-fledged signal sources themselves, at the same time their potential can be changed (set) from outside, by an external source;
+-	the generator cannot simply start producing pulses when c/m, k/m parameters are set, it needs a "push" - a change of one of the three phase variables, i.e. an external signal in the form of an excitation pulse - to start generation.
+Figure 4 shows examples of "jolts" over time.
  
- 
+<p><img src="https://www.minfo.ru/different_imgs/img4.png" width="900"><figcaption>Figure 3. The simplest model of a segment of the cerebellar neural network acting as a harmonic oscillator.</figcaption></p>
